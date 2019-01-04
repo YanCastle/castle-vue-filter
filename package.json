@@ -1,0 +1,19 @@
+{
+  "name": "castle-vue-filter",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist/**/*.js",
+    "dist/**/*.d.ts",
+    "READMD.md",
+    "yarn.lock"
+  ],
+  "repository": "https://github.com/YanCastle/castle-vue-filter",
+  "author": "CastleMY <490523604@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "moment": "^2.23.0"
+  }
+}
